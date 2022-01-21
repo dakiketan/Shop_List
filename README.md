@@ -1,4 +1,4 @@
-This project was bootstrapped with Create React App, using the Redux and Redux Toolkit template.
+This project was Create using React App, using the Redux and Redux Toolkit template.
 
 Available Scripts
 In the project directory, you can run:
